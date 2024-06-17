@@ -24,16 +24,16 @@ exports.GiversThings200 = [
   { address: "EQAwYPZEypqBGNa2KjthhWErg2R4CFrgPk25SrEYqZ0KNxYB", reward: 200 }, // 100
 ];
 exports.GiversThings1000 = [
-  { address: "EQAXkmHPHj38EAoSUpFS4h_-51Nr-0zkt-WvqFz-g9EeyytS", reward: 1000 },
-  { address: "EQCgIz9n-IKjCnkp1cvdY_Y36hWrspYyn-YzwtnWRAO3VX-2", reward: 1000 },
-  { address: "EQCaC2SnsYdFwBKxmVNDDzErdwIuE6jCFQ_vktkMEgJvnE3q", reward: 1000 },
-  { address: "EQBa2MAvh8B4wGRGSCL6KauYRURMDvnhyJnOFe0AS_mY8pVy", reward: 1000 },
-  { address: "EQCJS7stH6ArCx9rMKqW6ma3wwnQ8jIZseZSomfIe4Xu7bTh", reward: 1000 },
-  { address: "EQBgYOXP1jher0Ryi8Eu0JdCSGQyJXq5iBk02Fot0fOo_Jq6", reward: 1000 },
-  { address: "EQCYhHyUdcM-cY-52ajaKn_W_WQ1eiDZi5_MmJLhQYVYlroa", reward: 1000 },
-  { address: "EQCgvetY70xTWBebiW0eqk85d8M7nafRd7IPAck7QVnecnE0", reward: 1000 },
+ // { address: "EQAXkmHPHj38EAoSUpFS4h_-51Nr-0zkt-WvqFz-g9EeyytS", reward: 1000 },
+ // { address: "EQCgIz9n-IKjCnkp1cvdY_Y36hWrspYyn-YzwtnWRAO3VX-2", reward: 1000 },
+ // { address: "EQCaC2SnsYdFwBKxmVNDDzErdwIuE6jCFQ_vktkMEgJvnE3q", reward: 1000 },
+  // { address: "EQBa2MAvh8B4wGRGSCL6KauYRURMDvnhyJnOFe0AS_mY8pVy", reward: 1000 },
+  // { address: "EQCJS7stH6ArCx9rMKqW6ma3wwnQ8jIZseZSomfIe4Xu7bTh", reward: 1000 },
+  // { address: "EQBgYOXP1jher0Ryi8Eu0JdCSGQyJXq5iBk02Fot0fOo_Jq6", reward: 1000 },
+  // { address: "EQCYhHyUdcM-cY-52ajaKn_W_WQ1eiDZi5_MmJLhQYVYlroa", reward: 1000 },
+  // { address: "EQCgvetY70xTWBebiW0eqk85d8M7nafRd7IPAck7QVnecnE0", reward: 1000 },
   { address: "EQCJSX9yLJOXX7jVGpnsFneV-0w2ViSsyqmtrAtMZRAJP9_X", reward: 1000 },
-  { address: "EQBE4Xu0kyHAN3zKmdrgxQmpMoAYuEsJECPM40PV2Sa6nq1j", reward: 1000 }, // 100
+  // { address: "EQBE4Xu0kyHAN3zKmdrgxQmpMoAYuEsJECPM40PV2Sa6nq1j", reward: 1000 }, // 100
 ];
 exports.GiversThings5000 = [
   { address: "EQCpdH9Ly5YzKQvyLvgdpQn8sAa72Q88ChG5Hzy_-bk-OFFz", reward: 5000 },
